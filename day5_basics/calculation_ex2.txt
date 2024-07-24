@@ -1,0 +1,12 @@
+-create 3 text input field
+	1] = number 1 
+	2] = number 2
+	3] = answer(this field will be non editable)
+-create 4 buttons
+	1] = addition
+	2] = subtraction
+	3] = multiplication
+	4] = division
+
+-on each button click we will perform relavant calculation and display final answer in answer textbox
+-for each 4 operation we will create only single function with required arguments(you decide how many and which argument you can add) 
