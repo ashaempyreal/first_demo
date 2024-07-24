@@ -14,6 +14,8 @@
     <div>
         <h2>Contact us </h2>
         <p>Address</p>
+        <p>contact us</p>
+        
     </div>
     <div>
     
